@@ -1,4 +1,7 @@
 # Kali-and-Metasploitable2
+Reference:
+https://docs.rapid7.com/metasploit/metasploitable-2/
+https://www.kali.org/get-kali/#kali-virtual-machines
 
 1. Information Gathering - All open ports running on the host
 
