@@ -14,6 +14,7 @@
 ![image6](https://github.com/user-attachments/assets/ef0893b4-5a89-48ee-8af6-91660699cb10)
 
   One of the Vulnerabilities in the machine which has CVSS v3 score greater than 9
+  map -sV --script vulners --script-args mincvss=9.0 10.0.0.23
   CVE-2013-1903    10.0    https://vulners.com/cve/CVE-2013-1903 Has a score of over 9 
 
 ![image9](https://github.com/user-attachments/assets/a938d76a-a431-45f9-b5dd-dff534b1eb52)
